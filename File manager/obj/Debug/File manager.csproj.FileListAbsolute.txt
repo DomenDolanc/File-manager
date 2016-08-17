@@ -1,0 +1,14 @@
+C:\Users\domen_000\Documents\Visual Studio 2013 programi\File manager\File manager\bin\Debug\File manager.exe.config
+C:\Users\domen_000\Documents\Visual Studio 2013 programi\File manager\File manager\bin\Debug\File manager.exe
+C:\Users\domen_000\Documents\Visual Studio 2013 programi\File manager\File manager\bin\Debug\File manager.pdb
+C:\Users\domen_000\Documents\Visual Studio 2013 programi\File manager\File manager\obj\Debug\File manager.csprojResolveAssemblyReference.cache
+C:\Users\domen_000\Documents\Visual Studio 2013 programi\File manager\File manager\obj\Debug\File_manager.Form1.resources
+C:\Users\domen_000\Documents\Visual Studio 2013 programi\File manager\File manager\obj\Debug\File_manager.Properties.Resources.resources
+C:\Users\domen_000\Documents\Visual Studio 2013 programi\File manager\File manager\obj\Debug\File manager.csproj.GenerateResource.Cache
+C:\Users\domen_000\Documents\Visual Studio 2013 programi\File manager\File manager\obj\Debug\File manager.exe
+C:\Users\domen_000\Documents\Visual Studio 2013 programi\File manager\File manager\obj\Debug\File manager.pdb
+C:\Users\domen_000\Documents\Visual Studio 2013 programi\File manager\File manager\bin\Debug\Interop.WMPLib.dll
+C:\Users\domen_000\Documents\Visual Studio 2013 programi\File manager\File manager\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\domen_000\Documents\Visual Studio 2013 programi\File manager\File manager\obj\Debug\Interop.WMPLib.dll
+C:\Users\domen_000\Documents\Visual Studio 2013 programi\File manager\File manager\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\domen_000\Documents\Visual Studio 2013 programi\File manager\File manager\obj\Debug\File manager.csproj.ResolveComReference.cache
